@@ -1,2 +1,2 @@
 # weather-prediction
-Monsoon Rerouting
+A Streamlit app for weather prediction and monsoon rerouting
